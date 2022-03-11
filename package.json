@@ -1,0 +1,19 @@
+{
+  "name": "transaction-logging",
+  "version": "1.0.0",
+  "description": "A Service for logging transactions and getting a spending summary for yourself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Square-face/Transaction-Logging.git"
+  },
+  "author": "Linus Michelsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Square-face/Transaction-Logging/issues"
+  },
+  "homepage": "https://github.com/Square-face/Transaction-Logging#readme"
+}
